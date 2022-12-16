@@ -27,9 +27,3 @@ int main(void)
     printf("Is %d a root: %d\n", root->right->right->n, ret);
     return (0);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Priv
